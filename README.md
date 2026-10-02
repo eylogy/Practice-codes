@@ -63,8 +63,6 @@ Feel free to give feedback or suggest improvements on my code programs!
 
 ### How to Give Feedback
 
-**Open an Issue**
-
 1. Go to the **Issues** tab at the top of this repository.
 2. Click **New issue**.
 3. Write a short title (for example: `Suggestion for ATM.cpp`).
