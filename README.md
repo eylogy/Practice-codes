@@ -74,7 +74,3 @@ Feel free to give feedback or suggest improvements on my code programs!
 ## Support
  
 If you like my programs, feel free to put a ⭐ on this repo. Thank you!
-
-## Support
-
-If you like my programs, feel free to put a ⭐ on this repo. Thank you!
