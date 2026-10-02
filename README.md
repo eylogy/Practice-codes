@@ -32,6 +32,7 @@ A collection of C++ programs I wrote while practicing programming concepts for m
 | `single.array.cpp` | Practice with single-dimensional arrays |
 | `ticket.cpp` | Ticket program |
 | `week.cpp` | Week program |
+| `inv.cpp` | Jeepney Fare Calculator |
 
 ## Requirements
 
