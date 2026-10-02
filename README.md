@@ -8,6 +8,8 @@ A collection of C++ programs I wrote while practicing programming concepts for m
 - [Requirements](#requirements)
 - [How to Compile and Run](#how-to-compile-and-run)
 - [Topics Covered](#topics-covered)
+- [Feedback](#feedback)
+- [Support](#support)
 
 ## Programs
 
@@ -20,8 +22,6 @@ A collection of C++ programs I wrote while practicing programming concepts for m
 | `ICS.cpp` | ICS activity/exercise 1 |
 | `ICS2.cpp` | ICS activity/exercise 2 |
 | `ICS3.cpp` | ICS activity/exercise 3 |
-
-> Descriptions are based on file names — edit them to match what each program actually does.
 
 ## Requirements
 
@@ -54,3 +54,27 @@ Replace `ATM.cpp` / `ATM` with any file in the table above.
 ## Author
 
 Student practice repository for programming coursework.
+
+---
+
+## Feedback
+
+Feel free to give feedback or suggest improvements on my code programs!
+
+### How to Give Feedback
+
+**Open an Issue**
+
+1. Go to the **Issues** tab at the top of this repository.
+2. Click **New issue**.
+3. Write a short title (for example: `Suggestion for ATM.cpp`).
+4. In the description, mention the file name and explain your feedback or suggested improvement.
+5. Click **Submit new issue**.
+
+## Support
+ 
+If you like my programs, feel free to put a ⭐ on this repo. Thank you!
+
+## Support
+
+If you like my programs, feel free to put a ⭐ on this repo. Thank you!
