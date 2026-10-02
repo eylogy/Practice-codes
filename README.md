@@ -15,13 +15,23 @@ A collection of C++ programs I wrote while practicing programming concepts for m
 
 | File | Description |
 |------|-------------|
+| `age.cpp` | Age program |
 | `ATM.cpp` | Simple ATM simulation (e.g., balance, deposit, withdraw) |
+| `bank.cpp` | Simple banking program |
 | `bicycle.cpp` | Bicycle program practicing classes/objects |
-| `single.array.cpp` | Practice with single-dimensional arrays |
+| `checkout.cpp` | Checkout program |
 | `dim_array.cpp` | Practice with multi-dimensional arrays |
+| `gym.cpp` | Gym program |
 | `ICS.cpp` | ICS activity/exercise 1 |
 | `ICS2.cpp` | ICS activity/exercise 2 |
 | `ICS3.cpp` | ICS activity/exercise 3 |
+| `login.cpp` | Login program |
+| `machine.cpp` | Machine program |
+| `machine2.cpp` | Machine program (version 2) |
+| `season.cpp` | Season program |
+| `single.array.cpp` | Practice with single-dimensional arrays |
+| `ticket.cpp` | Ticket program |
+| `week.cpp` | Week program |
 
 ## Requirements
 
@@ -70,5 +80,5 @@ Feel free to give feedback or suggest improvements on my code programs!
 5. Click **Submit new issue**.
 
 ## Support
- 
+
 If you like my programs, feel free to put a ⭐ on this repo. Thank you!
